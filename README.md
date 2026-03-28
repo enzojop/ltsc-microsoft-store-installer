@@ -21,7 +21,7 @@ Este projeto restaura a Store e suas dependencias, permitindo:
 
 Baixe o pacote oficial utilizado no processo:
 
-- [Download do pacote](https://forums.mydigitallife.net/threads/add-store-to-windows-10-enterprise-ltsc-LTSC.70741/page-30#post-1468779)
+- [Download do pacote](https://github.com/enzojop/ltsc-microsoft-store-installer/releases)
 
 ## Instalacao
 
